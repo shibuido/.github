@@ -9,7 +9,7 @@
 In the rich tradition of Japanese philosophy, we use "-do" (道, "the way") to denote a discipline or path:
 - 柔道 judo — "the gentle way"
 - 剣道 kendo — "the way of the sword"
-- 茶道 sado — "the way of tea"
+- 茶道 sadō (chadō) — "the way of tea"
 
 **Shibuido** (渋美道) combines:
 - **渋** (shibu) — subtle, astringent, restrained elegance
