@@ -24,6 +24,23 @@ Like the Japanese arts ending in *-dō*, Shibuido is not just about building too
 - **Quiet** yet effective
 - **Timeless** yet modern
 
+## Quick Start
+
+Add all shibuido tools to your PATH by adding this to your `~/.bashrc`:
+
+```bash
+# Add shibuido tools to PATH
+for subdir in ~/github/shibuido/*/; do
+    [ -d "$subdir" ] && export PATH="$PATH:$subdir"
+done
+```
+
+Then clone any shibuido repos into `~/github/shibuido/` — they're instantly available!
+
+> **Tip:** Use [repo-clone](https://github.com/shibuido/repo-clone) to automatically place repos in the right location.
+
+📖 See [Installation Guide](https://github.com/shibuido/shibuido-docs/blob/master/installation.md) for more options (zsh, fish, symlinks, etc.)
+
 ## Welcome
 
 We invite you to explore our projects and join us in the pursuit of subtle, unobtrusive beauty in utility. Each repository reflects our commitment to craftsmanship, simplicity, and the enduring principles of good design.
